@@ -13,7 +13,7 @@ Add the dependency to your `Cargo.toml`:
 ```toml
 [dependencies]
 log = "0.4"
-pretty_env_logger = { git = "https://github.com/project-anni/pretty_env_logger" }
+pretty_env_logger = { git = "https://github.com/project-anni/pretty-env-logger" }
 ```
 
 Add some usage to your application:
